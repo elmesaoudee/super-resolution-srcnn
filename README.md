@@ -34,7 +34,7 @@ $ python build_dataset.py
 ```sh
 $ python train.py
 ```
-### 4- Run the model on your own examples
+### 5- Run the model on your own examples
 ```sh
 $ python resize.py -i input_image.jpg -b baseline.jpg -o output_image.jpg
 ```
