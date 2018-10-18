@@ -3,8 +3,11 @@ Image Super-Resolution using Convolutional Neural Networks
 
 # Prerequisites 
 > keras with tensorflow
- opencv for python
+
+opencv for python
+
 imutils
+
 scipy
     
 
